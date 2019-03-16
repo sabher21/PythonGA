@@ -1,7 +1,3 @@
-# test
-print('hello world') # this is a comment
-"""
-test 2
+to_address = "4633 park avenue, Bronx, New York 10458"
 
-"""
-print ("test 2")
+print(' start walk from school to', to_address)
